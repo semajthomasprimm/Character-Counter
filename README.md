@@ -1,5 +1,5 @@
 # Character Counter
-A simple JavaFX that analyses a text file and prints out the line numbers that are over 80 characters.
+A simple JavaFX application that analyses a text file and prints out the line numbers that are over 80 characters.
 
 ## Screenshots
 ### Starting page
